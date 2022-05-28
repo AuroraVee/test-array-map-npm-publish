@@ -1,0 +1,19 @@
+{
+  "name": "test-array-map-wjx",
+  "version": "1.0.1",
+  "description": "array map function use ts",
+  "main": "./dist/test-array-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "array"
+  ],
+  "author": "wulala ",
+  "license": "MIT",
+  "devDependencies": {
+    "test-array-map-wjx": "^1.0.0",
+    "typescript": "^4.7.2"
+  }
+}
